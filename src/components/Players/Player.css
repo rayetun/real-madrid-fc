@@ -1,0 +1,41 @@
+.player-info {
+    margin: 20px 0 5px 0;
+}
+.card{
+    height: 180px;
+    box-shadow: 0 0 7px 3px #b8b5b5;
+    transform: scale(1.03);
+}
+.player-info p{
+    margin: 0;
+}
+.player-info .card-body{
+    padding: 20px 0 0 0px;
+}
+.player-info .card-img{
+    height: 179px;
+    border-right: 1px solid #c2bebe;
+    background: #F9F8F6;
+    
+}
+.card-title{
+    font-weight: bold;
+    padding-left:16px;
+}
+.card-text{
+    font-weight: 600;
+    padding-left:20px;
+}
+.card-text small{
+    font-weight: 500;
+}
+.salary-text{
+    color: rgb(5, 52, 121);
+}
+.player-info button.btn.btn-primary.btn-lg.btn-block {
+    font-size: 13.5px;
+    border-radius: 0 0 3px 0;
+    margin-top: 20px;
+    border: none;
+    margin-left: 1px;
+}

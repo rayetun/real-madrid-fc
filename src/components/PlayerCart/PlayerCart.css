@@ -1,0 +1,40 @@
+.player-cart {
+    margin-top: 18px;
+    min-height: 40%;
+    background: #fff;
+    padding: 10px;
+    position: relative;
+    border-radius: 3px;
+    border: 2px solid rgb(187, 174, 174);
+    border-bottom: none;
+}
+.total-salary {
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background: #0079FB;
+    color: #fff;
+    text-align: center;
+}
+.total-salary h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0 0 10px;
+}
+h4.heading-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #0079FB;
+    font-weight: bold;
+}
+.club-name{
+    font-size:10px;
+    display:block;
+}
+td.special-td {
+    width: 60%;
+}
